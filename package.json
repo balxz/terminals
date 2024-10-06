@@ -9,6 +9,8 @@
     "ws": "*",
     "node-pty": "*",
     "path": "*",
-    "os": "*"
+    "os": "*",
+    "exec": "*",
+    "body-parser": "*"
   }
 }
